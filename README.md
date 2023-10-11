@@ -29,9 +29,3 @@ The confusion matrix is visualized using seaborn and matplotlib to provide insig
 
 ### Sentiment Analysis Function
 A function for sentiment analysis is included, allowing users to input text and receive predicted sentiment using the trained models.
-
-## Usage
-
-1. **Install Dependencies:**
-   ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn
